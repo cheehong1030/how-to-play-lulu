@@ -1,5 +1,7 @@
-# [📖 English Version](/language/english.md)
-
 ## How To Play Lulu And Get Carry
 
-![Runes](/resource/runes.png)
+# [📖 English Version](/language/english.md)
+
+# [📖 Chinese Version](/language/chinese.md)
+
+
