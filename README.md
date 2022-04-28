@@ -1,7 +1,7 @@
-## How To Play Lulu And Get Carry
+# How To Play Lulu And Get Carry
 
-# [📖 English Version](/language/english.md)
+## [📖 English Version](/language/english.md)
 
-# [📖 Chinese Version](/language/chinese.md)
+## [📖 Chinese Version](/language/chinese.md)
 
 
