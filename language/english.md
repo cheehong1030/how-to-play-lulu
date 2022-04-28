@@ -17,7 +17,7 @@ When the sp item is upgraded, you need to take a scan. If the opposite jungler o
 ![item.png](/resource/item.png)
 
 ## 💣 Lulu's skills
-Raise E first, then main E and negative W because Q skill does not benefit much  
+Raise E first, then main E and sub W because Q skill does not benefit much  
 And adc can also get more shields in the early stage to ensure better blood volume in early fights
 
 ## 🛠 Lulu's Tips
