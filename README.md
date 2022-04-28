@@ -4,5 +4,5 @@
 
 ## [📖 Chinese Version](/language/chinese.md)
 
-[lulu.png](/resource/lulu.png)
+![lulu.png](/resource/lulu.png)
 
