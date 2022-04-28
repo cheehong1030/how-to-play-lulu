@@ -1,3 +1,5 @@
-## English Version
+# English Version
 
-# How to play lulu and get carry
+## How To Play Lulu And Get Carry
+
+![Runes](/resource/runes.png)
